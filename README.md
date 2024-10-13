@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mrutunjay Prusty
 - 🌱 I’m currently learning ...JS Development
-- 💞️ I’m looking to collaborate on ...Front-End Developent
+- 💞️ I’m looking to collaborate on ...Front-End Projects
 - 📫 How to reach me ...mrutunjayprusty18@gmail.com
 
 <!---
